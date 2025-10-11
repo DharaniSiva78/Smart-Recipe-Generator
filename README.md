@@ -29,3 +29,19 @@ Technology Stack :
     Data: JSON-based recipe database
   
     State Management: React Hooks (useState, useEffect)
+
+
+Installation & Setup :
+
+    # Clone the repository
+    git clone https://github.com/DharaniSiva78/Smart-Recipe-Generator.git
+
+    # Navigate to project directory
+    cd Smart-Recipe-Generator
+
+    # Install dependencies
+    npm install
+
+    # Start the development server
+    npm start
+
