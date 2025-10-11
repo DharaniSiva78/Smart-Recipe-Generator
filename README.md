@@ -1,6 +1,6 @@
 Smart Recipe Generator :
 
-A React-based web application that helps users discover recipes based on ingredients they have available. Perfect for reducing food waste and finding creative meal ideas!
+    A React-based web application that helps users discover recipes based on ingredients they have available. Perfect for reducing food waste and finding creative meal ideas!
 
 
 Features :
