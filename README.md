@@ -1,47 +1,56 @@
-Smart Recipe Generator :
 
-    A React-based web application that helps users discover recipes based on ingredients they have available. Perfect for reducing food waste and finding creative meal ideas!
+# Smart Recipe Generator
 
-
-Features :
-
-    Smart Ingredient Matching: Finds recipes based on available ingredients
-  
-    Advanced Filtering: Filter by dietary preferences, cooking time, difficulty, and cuisine
-  
-    Nutrition Information: Detailed nutritional facts for each recipe
-  
-    Favorites System: Save and manage favorite recipes
-  
-    Responsive Design: Works perfectly on desktop and mobile devices
-  
-    Real-time Search: Instant search through recipes
-  
-
-Technology Stack :
-
-    Frontend: React 18, React Router DOM
-  
-    Styling: Pure CSS with CSS Grid & Flexbox
-  
-    Icons: Lucide React
-    
-    Data: JSON-based recipe database
-  
-    State Management: React Hooks (useState, useEffect)
+Developed by      : Dharani S  
+Reg. No           : 22BKT0160  
+Company           : Unthinkable – Technical Assessment Project  
+Hosted URL        : https://smart-recipe-generator-gray.vercel.app/recipes  
+GitHub Repository : https://github.com/DharaniSiva78/Smart-Recipe-Generator/tree/main
 
 
-Installation & Setup :
+Project Overview
+  
+     The Smart Recipe Generator is a web-based application that suggests healthy and delicious recipes using the ingredients entered by users. It helps reduce food waste and simplifies meal planning.
 
-    # Clone the repository
+
+
+ Features
+
+    - Ingredient input through text or selection  
+    - Recipe matching and generation  
+    - Nutritional details (calories, protein, etc.)  
+    - Filters for time, difficulty, and diet preferences  
+    - Recipe rating and favorites  
+    - Mobile-responsive UI  
+    - Deployed live on Vercel  
+
+
+
+ Technologies Used
+ 
+| Component | Technology           |
+|-----------|----------------------|
+| Frontend  | React.js             |
+| Language  | JavaScript (ES6+)    |
+| Styling   | CSS                  |
+| Data      | JSON Recipe Database |
+| Hosting   | Vercel               |
+
+
+
+Installation & Usage
+
     git clone https://github.com/DharaniSiva78/Smart-Recipe-Generator.git
-
-    # Navigate to project directory
     cd Smart-Recipe-Generator
-
-    # Install dependencies
     npm install
-
-    # Start the development server
     npm start
+
+
+Install dependencies
+
+     npm install
+
+Start the development server
+
+     npm start
 
