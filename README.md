@@ -41,7 +41,7 @@ Project Overview
 Installation & Usage
 
     git clone https://github.com/DharaniSiva78/Smart-Recipe-Generator.git
-    cd Smart-Recipe-Generator
+    cd smart-recipe-generator
     npm install
     npm start
 
